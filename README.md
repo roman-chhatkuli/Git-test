@@ -1,1 +1,1 @@
-this is the changes made to commit from terminal
+this is the change from github
