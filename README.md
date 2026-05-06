@@ -1,1 +1,1 @@
-this is dev2 
+this is the changes made to commit from terminal
